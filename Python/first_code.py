@@ -1,6 +1,5 @@
 print("Hello World outside main")
 
-
 def main():
     print("Hello World inside main")
     pass
